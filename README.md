@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Local EDS sample by Nitin
+Local EDS sample code for learning purpose and personal use only
 
 ## Environments
 - Preview: https://main--eds--nitin2io.hlx.page/
