@@ -369,6 +369,8 @@ function decorateButtons(element) {
         if (up.childNodes.length === 1 && (up.tagName === 'P' || up.tagName === 'DIV')) {
           a.className = 'button'; // default
           up.classList.add('button-container');
+          up.classList.add('anchor-link');
+          up.classList.add('link-highlight-colorful-effect-2');
         }
         if (
           up.childNodes.length === 1
